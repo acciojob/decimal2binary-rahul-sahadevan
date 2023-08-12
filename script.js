@@ -1,4 +1,4 @@
-function decimalToBinary(7) {
+function decimalToBinary(num) {
 
   let rem = 0;
 let sum = "";
